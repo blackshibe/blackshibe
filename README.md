@@ -1,1 +1,1 @@
-![a](https://blackshibe.azurewebsites.net/res/img/cheem.png)
+![a](https://github.com/blackshibe/blackshibe/blob/main/cheem.png)
